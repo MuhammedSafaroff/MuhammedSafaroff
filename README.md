@@ -5,7 +5,7 @@
 ### Connect with me:
 
 [![Twitter: Muhammed Safarov](https://img.shields.io/twitter/follow/muhammedsafarow?style=social)](https://twitter.com/muhammedsafarow)
-[![Linkedin: Muhammed Safarov](https://img.shields.io/badge/-MuhammedSafarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MuhammedSafarov/)](https://www.linkedin.com/in/muhammed-safarov-ab49711a2/)
+[![Linkedin: Muhammed Safarov](https://img.shields.io/badge/-MuhammedSafarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MuhammedSafarov/)](https://www.linkedin.com/in/muhammedsafaroff/)
 
 <br />
 
