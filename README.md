@@ -29,7 +29,7 @@
 <a href="https://github.com/MuhammedSafaroff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSafaroff&theme=dark&hide_langs_below=1" />
 </a>
-
+<br />
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedSafaroff&show_icons=true&include_all_commits=true&&theme=algolia&hide_border=true&count_private=true" alt="MuhammedSafaroff's github stats" /></a>
 
